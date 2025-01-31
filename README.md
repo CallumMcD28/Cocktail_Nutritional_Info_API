@@ -1,4 +1,4 @@
-#Description
+## Description
 This project was completed as a coursework piece for a web development module as part of my MSc in Computer Science at Dundee University. The web application uses two APIs: NutritionIX and CocktailDB. The function of the application is to calculate the nutritional values of various cocktails. The application takes a user input (search for either a cocktail name, or cocktail ingredient), and returns a list of cocktails. This function uses the cocktaildb API to return search results. When the user selects a cocktail to view, ingredients in the cocktail are displayed alongside the nutritional information for each ingredient. These can then be summed to find the nutritional information for the cocktail.
 
 

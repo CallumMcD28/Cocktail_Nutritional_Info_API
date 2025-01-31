@@ -1,3 +1,7 @@
+#Description
+This project was completed as a coursework piece for a web development module as part of my MSc in Computer Science at Dundee University. The web application uses two APIs: NutritionIX and CocktailDB. The function of the application is to calculate the nutritional values of various cocktails. The application takes a user input (search for either a cocktail name, or cocktail ingredient), and returns a list of cocktails. This function uses the cocktaildb API to return search results. When the user selects a cocktail to view, ingredients in the cocktail are displayed alongside the nutritional information for each ingredient. These can then be summed to find the nutritional information for the cocktail.
+
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17279457&assignment_repo_type=AssignmentRepo)
 
 
@@ -16,10 +20,10 @@ Conversion Factor (CF) = ARG / (NutrionIX Serving Weight in Grams)
 
 
 ## Nutritional Factors used
-Weight
-Calories
-Fat
-Sodium
-Carbohydrate
-Sugars
-Protein
+Weight,
+Calories,
+Fat,
+Sodium,
+Carbohydrate,
+Sugars,
+Protein,
